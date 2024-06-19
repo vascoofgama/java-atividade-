@@ -1,0 +1,15 @@
+main{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    background-image:url(https://pbs.twimg.com/media/F6mXlJmX0AAysZ_?format=jpg&name=large)
+}
+
+.bnt-area{
+    display:flex;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+}
